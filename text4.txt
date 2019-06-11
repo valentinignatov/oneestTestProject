@@ -1,0 +1,2 @@
+Asta am introdus cu comanda cat>text4.txt
+:)
