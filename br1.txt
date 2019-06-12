@@ -1,1 +1,2 @@
 Hello world text introduced with cat comand by valentin at 17:26
+this is the new text in br1 :D
