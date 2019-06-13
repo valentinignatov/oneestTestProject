@@ -1,2 +1,5 @@
 Hello world text introduced with cat comand by valentin at 17:26
 this is the new text in br1 :D
+1 intial commit
+2 first commit master
+3 second commit master
